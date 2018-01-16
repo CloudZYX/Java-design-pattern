@@ -7,6 +7,6 @@ public class CommonDuck extends Duck {
 
     public CommonDuck(){
         this.flyBehavior = new FlyByWing(); //通过翅膀飞
-//        this,soundBehavior = new SoundBygaga(); //嘎嘎叫
+        this.soundBehavior = new SoundBygaga(); //嘎嘎叫
     }
 }
