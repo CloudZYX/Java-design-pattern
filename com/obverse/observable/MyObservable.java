@@ -1,7 +1,7 @@
-package obverse.observable;
+package com.obverse.observable;
 
 
-import obverse.observe.MyObserver;
+import com.obverse.observe.MyObserver;
 
 import java.util.Observer;
 

@@ -1,6 +1,6 @@
-package obverse.observe;
+package com.obverse.observe;
 
-import obverse.observable.WeatherData;
+import com.obverse.observable.WeatherData;
 
 public interface MyObserver {
     public void update(WeatherData weatherData);

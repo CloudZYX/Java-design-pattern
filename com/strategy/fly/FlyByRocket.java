@@ -1,4 +1,4 @@
-package strategy.fly;
+package com.strategy.fly;
 
 public class FlyByRocket extends FlyBehavior {
 

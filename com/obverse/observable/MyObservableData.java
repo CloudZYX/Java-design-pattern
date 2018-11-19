@@ -1,4 +1,4 @@
-package obverse.observable;
+package com.obverse.observable;
 
 public interface MyObservableData {
 }

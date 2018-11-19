@@ -1,4 +1,4 @@
-package strategy.sound;
+package com.strategy.sound;
 
 public class SoundBehavior {
 

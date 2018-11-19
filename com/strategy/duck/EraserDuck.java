@@ -1,7 +1,7 @@
-package strategy.duck;
+package com.strategy.duck;
 
-import strategy.fly.CanNotFly;
-import strategy.sound.SoundByguagua;
+import com.strategy.fly.CanNotFly;
+import com.strategy.sound.SoundByguagua;
 
 public class EraserDuck extends Duck {
 

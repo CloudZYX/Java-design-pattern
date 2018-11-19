@@ -1,8 +1,8 @@
-package strategy.duck;
+package com.strategy.duck;
 
-import strategy.fly.FlyBehavior;
-import strategy.fly.FlyByRocket;
-import strategy.sound.SoundBehavior;
+import com.strategy.fly.FlyBehavior;
+import com.strategy.fly.FlyByRocket;
+import com.strategy.sound.SoundBehavior;
 
 //@Data
 public class Duck {

@@ -1,7 +1,7 @@
-package strategy.duck;
+package com.strategy.duck;
 
-import strategy.fly.CanNotFly;
-import strategy.sound.CanNotSound;
+import com.strategy.fly.CanNotFly;
+import com.strategy.sound.CanNotSound;
 
 public class WoodDuck extends Duck {
 

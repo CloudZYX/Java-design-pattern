@@ -1,7 +1,7 @@
-package strategy.duck;
+package com.strategy.duck;
 
-import strategy.fly.FlyByWing;
-import strategy.sound.SoundBygaga;
+import com.strategy.fly.FlyByWing;
+import com.strategy.sound.SoundBygaga;
 
 public class CommonDuck extends Duck {
 
