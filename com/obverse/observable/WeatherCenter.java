@@ -17,8 +17,9 @@ public class WeatherCenter implements MyObservable {
     @Override
     public void removeObserver(MyObserver observer) {
         int o = observerList.indexOf(observer);
-        if (o >= 0){
-            observerList.remove(observer);
+        if (o < 0 || o == 0){
+//            observerList.remove(observer);
+
         }
     }
 

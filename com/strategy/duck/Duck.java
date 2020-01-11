@@ -6,7 +6,9 @@ import com.strategy.sound.SoundBehavior;
 
 //@Data
 public class Duck {
+    //飞行行为
     protected FlyBehavior flyBehavior;
+    //叫声行为
     protected SoundBehavior soundBehavior;
 
     public void sound(){
